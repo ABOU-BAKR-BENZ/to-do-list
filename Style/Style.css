@@ -1,0 +1,7 @@
+body {
+  background-image: url(../Images/To-Do-List-Picture.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
